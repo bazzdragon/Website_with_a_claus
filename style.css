@@ -74,14 +74,20 @@ body {
     position: absolute;
     top: 0;
     left: -250px;
-    animation: flySanta 20s linear infinite;
+    animation: flySanta 20s linear infinite, bobbing 2s ease-in-out infinite;
     z-index: 10;
 }
 
 .santa {
+    transform: scaleX(-1);
     transform-origin: center;
-    animation: bobbing 2s ease-in-out infinite;
 }
+
+/* If it's a 3D flip instead */
+/*.santa {
+  transform: rotateY(180deg);
+  transform-origin: center;
+}*/
 
 @keyframes flySanta {
     0% {

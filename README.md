@@ -23,8 +23,7 @@ This Project was a school project where i had to vibe code a website with santa 
 
 ## Project structure
 - `index.html` – main page
-- `css/` – stylesheets (if present)
-- `assets/` – images and other static files (if present)
+- `css/` – stylesheets
 
 ## Contributing
 1. Fork the repository

@@ -1,9 +1,9 @@
 # Website with a Claus
 
-A simple website project.
+This Project was a school project where i had to vibe code a website with santa claus flying across the screen.
 
 ## Overview
-This Project was a school project where i had to vibe code a website with santa claus flying across the screen.
+Files for Website with a claus project.
 
 ## Tech stack
 - HTML

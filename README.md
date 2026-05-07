@@ -24,10 +24,3 @@ Files for Website with a claus project.
 ## Project structure
 - `index.html` – main page
 - `css/` – stylesheets
-
-## Contributing
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/my-change`
-3. Commit your changes: `git commit -m "Describe your change"`
-4. Push to the branch: `git push origin feature/my-change`
-5. Open a Pull Request

@@ -8,7 +8,6 @@ This repository contains the source for **Website with a Claus**. It’s intende
 ## Tech stack
 - HTML
 - CSS
-- JavaScript
 
 ## Getting started
 
@@ -25,7 +24,6 @@ This repository contains the source for **Website with a Claus**. It’s intende
 ## Project structure
 - `index.html` – main page
 - `css/` – stylesheets (if present)
-- `js/` – JavaScript files (if present)
 - `assets/` – images and other static files (if present)
 
 ## Contributing

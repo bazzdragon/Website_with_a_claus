@@ -3,7 +3,7 @@
 A simple website project.
 
 ## Overview
-This repository contains the source for **Website with a Claus**. It’s intended as a small web project you can run locally and customize.
+This Project was a school project where i had to vibe code a website with santa claus flying across the screen.
 
 ## Tech stack
 - HTML
@@ -32,6 +32,3 @@ This repository contains the source for **Website with a Claus**. It’s intende
 3. Commit your changes: `git commit -m "Describe your change"`
 4. Push to the branch: `git push origin feature/my-change`
 5. Open a Pull Request
-
-## License
-No license file is currently included. If you want others to use, modify, or distribute this project, consider adding a license (for example, MIT).
